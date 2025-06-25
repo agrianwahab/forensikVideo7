@@ -1,0 +1,11 @@
+opencv-python
+opencv-contrib-python
+imagehash
+numpy
+Pillow
+reportlab
+matplotlib
+tqdm
+scikit-learn
+scikit-image
+streamlit
